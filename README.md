@@ -4,7 +4,6 @@
 This is a project made by team HackSquad at Hack4Soc 2.0 Hackathon conducted by IEEE Computer Society RVCE and Hack2Skill at RV College of Engineering, Bangalore.
 ![Safepay](SafePay.jpg)
 
-## Android app for secure UPI transactions with security features like fraud detection and RDT 3.0
 - A mobile application to enable secure UPI transactions by integrating fraud detection based on user reports.
 - A summary of reports is generated using Cohere API to warn users about suspicious activity.
 - Implemented Reliable Data Transfer (RDT) 3.0, a computer networks security protocol which ensures connection between the servers of recipient’s and sender’s bank account before the initiation of money transfer.
